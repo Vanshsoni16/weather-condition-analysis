@@ -1,0 +1,23 @@
+
+WEATHER CONDITION ANALYSIS REPORT
+
+Total Records:
+96429
+
+Average Temperature:
+11.93
+
+Highest Temperature:
+39.91
+
+Lowest Temperature:
+-21.82
+
+Average Humidity:
+0.73
+
+Average Wind Speed:
+10.81
+
+Most Common Weather:
+Partly Cloudy
